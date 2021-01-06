@@ -161,10 +161,9 @@ section{
 }
 .email{
     text-align: center;
+    text-transform: lowercase;
 }
 .icon{
     display: inline;
-    
-    
     
 }
