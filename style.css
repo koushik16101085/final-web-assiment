@@ -76,6 +76,67 @@ section{
     font-weight: 500;
     margin-top: 5px;
 }
+.common img{
+    width: 100%;
+    margin-top: 5px;
+    background: #cfb6b6;
+    border-radius: 11px;
+    box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+}
+.working{
+    background-color: #F8F9FC;
+}
+.working-project{
+    width: 100%;
+}
+.ab{
+    text-align: center;
+}
 
+.common{
+    width: 20%;
+    float: left;
+    margin: 10px 60px 10px 100px;
+    padding: 25px;
+    background: #FFFFFF;
+    border: none;
+    box-shadow: 0px 10px 40px rgba(0,0,0,0.1);
+    border-radius: 18px;
 
+    
+}
+.content{
+    text-align: left;
+    margin: 5px;
+    margin-top: 20px;
+    padding-top: 25px;
+}
+.content h3{
+    font-size: large;
+    margin-bottom: 10px;
+}
+.content p{
+    margin-top: 10px;
+}
+.finish img{
+   margin-left: 350px;
+   margin-top: 200px;
+    width: 50%;
+}
+.finish h2{
+    margin-left: 400px;
+    margin-top: -100px;
+    color: white;
+}
+.btn{
+    margin-left: 1000px;
+    width: 120px;
+    height: 40px;
+    background-color: tomato;
+    border: 1px solid gray;
+    border-radius: 5px;
+   margin-top: -10%;
 
+    
+    
+}
